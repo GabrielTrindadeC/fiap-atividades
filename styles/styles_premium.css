@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+.container{
+    display: flex;
+    background-color: #c1c1c1;
+    text-align: center;
+    padding-left: 10px;
+    padding-bottom: 30px;
+    padding-top: 5px;
+    
+    
+}
+h1{
+    text-align: center;
+    margin-left: 50px;
+}
+img{
+    width: 50px;
+}
+section{
+    background-color: #c1c1c1;
+}
+p{
+    font-weight: bold;
+    margin-top: 20px;
+    padding: 50px;
+    font-size: 30px;
+    text-align: center;
+}
+h2{
+    font-size: 50px;
+    text-align: center;
+}

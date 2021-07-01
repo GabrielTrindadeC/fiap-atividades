@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+.field{
+    display: flex;
+    background-color: #c1c1c1;
+    border: 1px solid;
+    align-items: center;
+    justify-content: space-around;
+    line-height: 5;
+
+}
+
+.alimentos{
+    flex: 1;
+    
+}
+.calorias{
+    flex:1
+}
+.dayli{
+    background-color: #c1c1c1;
+    border: 1px solid;
+    text-align: center;
+    line-height: 2;
+}
+h3{
+    text-align: center;
+    margin-bottom: 20%;
+}

@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+.menu{
+    font-size: 70px;
+    text-align: center;
+    background-color: #c1c1c1;
+    border: 1px solid;
+    text-align: center;
+    line-height: 1;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.fields{
+    background-color: #c1c1c1;
+    border: 1px solid;
+    line-height: 20vh;
+}
