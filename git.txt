@@ -1,1 +1,1 @@
-git inti -> git add .
+git inti -> git add . -> git commit -m "v1" ->  git remote add origin https://github.com/GabrielTrindadeC/fiap-atividades.git -> git push -u origin master
